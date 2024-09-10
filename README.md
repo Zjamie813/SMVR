@@ -1,0 +1,3 @@
+# SMVR
+Soft Multi-View Representaiton (SMVR) aims to build accurate one-to-many alignment with consideration of one-to-many association and dislocation noise in text-based person retrieval task.
+This project is updating as soon as possible......
